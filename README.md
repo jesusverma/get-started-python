@@ -12,7 +12,7 @@ You'll need the following:
 * [Git](https://git-scm.com/downloads)
 * [Python](https://www.python.org/downloads/)
 
-## 1. Clone the sample app
+## 1. Clone the sample app 
 
 Now you're ready to start working with the app. Clone the repo and change to the directory where the sample app is located.
   ```
@@ -87,7 +87,7 @@ cf apps
   ```
   command to view your apps status and see the URL.
 
-## 5. Add a database
+## 5. Add a NOSQL database
 
 Next, we'll add a NoSQL database to this application and set up the application so that it can run locally and on IBM Cloud.
 

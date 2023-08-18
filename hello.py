@@ -36,6 +36,7 @@ elif os.path.isfile('vcap-local.json'):
 
 # On IBM Cloud Cloud Foundry, get the port number from the environment variable PORT
 # When running this app on the local machine, default the port to 8000
+# adding dummy comment
 port = int(os.getenv('PORT', 8000))
 
 @app.route('/')
